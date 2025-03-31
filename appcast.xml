@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>FotoLab Updates</title> 
+    <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <description>Initial release of the application.</description>
+      <pubDate>Mon, 31 Mar 2025 20:02:54 +0100</pubDate>
+      <enclosure
+          url="https://github.com/ap4499/FotoLab/releases/download/v1.0/FotoLab-1.0.app.zip" sparkle:version="1.0"
+          sparkle:shortVersionString="1.0"
+          type="application/octet-stream" />
+          </item>
+    </channel>
+</rss>
