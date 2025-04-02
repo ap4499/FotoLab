@@ -6,7 +6,7 @@
 
     <item>
       <title>Version 2.0</title>
-      <description>This is a simulated future update!</description>
+      <description>This is a simulated future update! We have literally just added a text line to the app!</description>
       <pubDate>Tue, 01 Apr 2025 14:05:00 +0100</pubDate>
       <enclosure
           url="https://github.com/ap4499/FotoLab/releases/download/2.0.0/sparkle-auto-updater-example.zip" sparkle:version="2.0" sparkle:shortVersionString="2.0" type="application/octet-stream" />
