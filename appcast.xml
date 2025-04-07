@@ -4,6 +4,17 @@
     <title>FotoLab Updates</title> 
     <language>en</language>
 
+   <item>
+            <title>2.0.1</title>
+            <pubDate>Mon, 07 Apr 2025 11:52:28 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+           <description>V3: This is a simulated future update! We have literally just added a text line to the app!</description>
+
+            <enclosure url="https://ap4499.github.io/FotoLab/sparkle-auto-updater-example.zip" length="46402484" type="application/octet-stream" sparkle:edSignature="NjqJU2bj+qV57yK1Xltb63crHUH5MymJL/KGlJIM/qicTNdAuOD507ya+6wYwnHg5w2caGYu0puI937dK93ZAw=="/>
+    </item>
+    
     <item>
       <title>Version 2.0</title>
       <description>This is a simulated future update! We have literally just added a text line to the app!</description>
