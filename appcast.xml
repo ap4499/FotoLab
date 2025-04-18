@@ -5,18 +5,32 @@
         <item>
             <title>1.0.5</title>
             <description><![CDATA[
+                <h2>What's New in Version 1.0.5(3)</h2>
+                <ul>
+                    <li>Fixed a bug where the export model didn't work.</li>
+                </ul>
+                <p>Thank you for using FotoLab!</p>
+            ]]></description>
+            <pubDate>Fri, 18 Apr 2025 16:26:03 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta(3)/FotoLab.dmg" length="354606124" type="application/octet-stream" sparkle:edSignature="cw9jQcwrpryy5SLGo30xNRNMfGrZW9/8v3zOfQ/a9iQMizhM1N/PtEHevIr9Krtx0pIa+JGb5JdVJBSnjKb4AA=="/>
+        </item>
+        <item>
+            <title>1.0.5</title>
+            <description><![CDATA[
                 <h2>What's New in Version 1.0.5</h2>
                 <ul>
                     <li>Fixed a bug where the delete button didn't work.</li>
                 </ul>
                 <p>Thank you for using FotoLab!</p>
             ]]></description>
-          
             <pubDate>Fri, 18 Apr 2025 16:23:00 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta/FotoLab.dmg"length="354646608" type="application/octet-stream" sparkle:edSignature="bkJDdPxSgpwLHi8iEr/WSHujb0o5FU/G094eu/SbN1N+GbD580zXK2yTooz2SgV/9Il+hv7S8G12yjMKBOaOAw=="/>
+            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta/FotoLab.dmg" length="354646608" type="application/octet-stream" sparkle:edSignature="bkJDdPxSgpwLHi8iEr/WSHujb0o5FU/G094eu/SbN1N+GbD580zXK2yTooz2SgV/9Il+hv7S8G12yjMKBOaOAw=="/>
         </item>
         <item>
             <title>1.0.5</title>
