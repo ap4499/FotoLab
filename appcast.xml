@@ -4,6 +4,19 @@
         <title>FotoLab</title>
         <item>
             <title>1.0.5</title>
+            <pubDate>Wed, 30 Apr 2025 21:54:59 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New in Version 1.0.5 (build 5)</h2>
+<ul>
+    <li>Fixed a file ref bug </li>
+</ul>
+<p>Thank you for using FotoLab!</p>]]></description>
+            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta(5)/FotoLab.dmg" length="353615304" type="application/octet-stream" sparkle:edSignature="D976U+GALle9+LF8tu3i1eTZSFmEeWFgkR2y2X+2lG3taUA+YKxwKc9zZK9p50QW1qxw6SGBJJLeH0qYEF3TBA=="/>
+        </item>
+        <item>
+            <title>1.0.5</title>
             <pubDate>Wed, 30 Apr 2025 15:42:54 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
@@ -45,14 +58,6 @@
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta/FotoLab.dmg" length="354646608" type="application/octet-stream" sparkle:edSignature="bkJDdPxSgpwLHi8iEr/WSHujb0o5FU/G094eu/SbN1N+GbD580zXK2yTooz2SgV/9Il+hv7S8G12yjMKBOaOAw=="/>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Wed, 16 Apr 2025 21:29:59 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ap4499.github.io/FotoLab/FotoLab.dmg" length="354671262" type="application/octet-stream" sparkle:edSignature="97prpfva1H5PAK9P5saAZ334FUNxhfiCMQQ2kj6NUNc6PU0iQp8mwUSKygCNsINyP4KdLCK0dbHPg8ouIjrmBg=="/>
         </item>
     </channel>
 </rss>
