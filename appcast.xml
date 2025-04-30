@@ -4,6 +4,20 @@
         <title>FotoLab</title>
         <item>
             <title>1.0.5</title>
+            <pubDate>Wed, 30 Apr 2025 15:42:54 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New in Version 1.0.5 (build 4)</h2>
+            <ul>
+                <li>Fixed translations in some languages.</li>
+                <li>Updated the settings menu to contain translations.</li>
+            </ul>
+            <p>Thank you for using FotoLab!</p>]]></description>
+            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta(4)/FotoLab.dmg" length="354704754" type="application/octet-stream" sparkle:edSignature="qq8BkLBLYnkxCe4oRsUNmETWbvPBf9gsi9x872QGjZlbartt2nzG1VqdEeox9B0D6NBg4kNZA/AiPI10ja+eBQ=="/>
+        </item>
+        <item>
+            <title>1.0.5</title>
             <description><![CDATA[
                 <h2>What's New in Version 1.0.5(3)</h2>
                 <ul>
