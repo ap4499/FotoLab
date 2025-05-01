@@ -4,11 +4,24 @@
         <title>FotoLab</title>
         <item>
             <title>1.0.5</title>
+            <pubDate>Thu, 01 May 2025 15:46:45 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New in Version 1.0.5 (build 6)</h2>
+<ul>
+    <li>Fixed some of the remaining file ref issues.</li>
+</ul>
+<p>Thank you for using FotoLab!</p>]]></description>
+            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta(6)/FotoLab.dmg" length="354642375" type="application/octet-stream" sparkle:edSignature="rNm2I7YsxpHEzZSeewFiBx7hZY6ug5h/1ocOBMLzyXOHlmUeVrFy0ROheiE/jPNTvQ6OHMABCQtlgAeWUV/8Bg=="/>
+        </item>
+        <item>
+            <title>1.0.5</title>
             <pubDate>Wed, 30 Apr 2025 21:54:59 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New in Version 1.0.5 (build 5)</h2>
+            <description><![CDATA[<h2>What's New in Version 1.0.5 (build 4)</h2>
 <ul>
     <li>Fixed a file ref bug </li>
 </ul>
@@ -28,21 +41,6 @@
             </ul>
             <p>Thank you for using FotoLab!</p>]]></description>
             <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta(4)/FotoLab.dmg" length="354704754" type="application/octet-stream" sparkle:edSignature="qq8BkLBLYnkxCe4oRsUNmETWbvPBf9gsi9x872QGjZlbartt2nzG1VqdEeox9B0D6NBg4kNZA/AiPI10ja+eBQ=="/>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <description><![CDATA[
-                <h2>What's New in Version 1.0.5(3)</h2>
-                <ul>
-                    <li>Fixed a bug where the export model didn't work.</li>
-                </ul>
-                <p>Thank you for using FotoLab!</p>
-            ]]></description>
-            <pubDate>Fri, 18 Apr 2025 16:26:03 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ap4499/FotoLab/releases/download/v1.0.5-beta(3)/FotoLab.dmg" length="354606124" type="application/octet-stream" sparkle:edSignature="cw9jQcwrpryy5SLGo30xNRNMfGrZW9/8v3zOfQ/a9iQMizhM1N/PtEHevIr9Krtx0pIa+JGb5JdVJBSnjKb4AA=="/>
         </item>
         <item>
             <title>1.0.5</title>
